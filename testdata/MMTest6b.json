@@ -37,10 +37,7 @@
                 "id": "org.chrome.cloud4chrome"
             },
             {
-                "id": "org.chrome.zoom"
-            },
-            {
-                "id": "org.chrome.textScaling"
+                "id": "com.google.chrome"
             }
         ]
     },
