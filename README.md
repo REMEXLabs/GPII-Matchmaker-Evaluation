@@ -1,11 +1,19 @@
 # GPII Matchmaker Evaluation
-Data and tools for evaluating [GPII matchmakers](http://wiki.gpii.net/w/Matchmaking) 
+
+Data and tools for evaluating the [GPII matchmakers](http://wiki.gpii.net/w/Matchmaking) 
 developed in the [Cloud4all project](http://www.cloud4all.info/). 
 
 Data originally created by [Cloud4allTUD](https://github.com/Cloud4AllTUD/)
 and further adapted here.
 
-Background: see [GPII JIRA ticket 1132](http://issues.gpii.net/browse/GPII-1132).
+Background: 
+* [GPII JIRA ticket 1132](http://issues.gpii.net/browse/GPII-1132).
+* [Profile Matching Technical Concept](http://www.cloud4all.info/research/public-deliverables/d204-1-profile-matching-technical-concept/) 
+(Cloud4all deliverable D204.1, October 2012).
+* [Matchmaking algorithms and their evaluation](http://www.cloud4all.info/research/public-deliverables/d204-3-matchmaking-algorithms-and-their-evaluation-2/)
+(Cloud4all deliverable D204.3, updated April 2015).
+* [Pilots evaluation framework, experimental plan and logistics V3](http://www.cloud4all.info/research/public-deliverables/d402-2-3-pilots-evaluation-framework-experimental-plan-and-logistics-v3/) 
+(Cloud4all deliverable D402.2.3, October 2014).
 
 ## Funding Acknowledgement
 
