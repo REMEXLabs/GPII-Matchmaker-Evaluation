@@ -1,0 +1,66 @@
+{
+    "inferredConfiguration": {
+        "gpii-default": {
+            "applications": {
+                "org.nvda-project": {
+                    "active": false,
+                    "settings": {
+                        "http://registry.gpii.net/applications/org.nvda-project": {
+                            "braille.display": "nobraille",
+                            "speech.synth": "espeak",
+                            "speech.outputDevice": "microsoft sound mapper",
+                            "speech.espeak.rate": 55,
+                            "speech.espeak.voice": "de",
+                            "reviewCursor.followFocus": false,
+                            "reviewCursor.followCaret": true,
+                            "reviewCursor.followMouse": false,
+                            "speech.symbolLevel": 100,
+                            "virtualBuffers.autoSayAllOnPageLoad": false,
+                            "speech.espeak.sayCapForCapitals": false,
+                            "keyboard.speakTypedCharacters": true,
+                            "keyboard.speakTypedWords": false,
+                            "speech.espeak.pitch": 60
+                        }
+                    }
+                },
+                "com.yourdolphin.supernova-as": {
+                    "active": false,
+                    "settings": {
+                        "http://registry.gpii.net/applications/com.yourdolphin.supernova-as": {
+                            "screenReaderBrailleOutput": false,
+                            "screenReaderTTSEnabled": true,
+                            "speechRate": 250,
+                            "announceCapitals": false,
+                            "keyEcho": true,
+                            "wordEcho": false
+                        }
+                    }
+                },
+                "com.freedomscientific.jaws": {
+                    "active": true,
+                    "settings": {
+                        "http://registry.gpii.net/applications/com.freedomscientific.jaws": {
+                            "Language": "german",
+                            "Punctuation": 1,
+                            "OSM.UseVirtualPCCursor": 1,
+                            "Speed": 19,
+                            "Options.SayAllMode": 2,
+                            "Pitch": 60
+                        }
+                    }
+                },
+                "webinsight.webAnywhere.windows": {
+                    "active": false,
+                    "settings": {
+                        "http://registry.gpii.net/applications/webinsight.webAnywhere.windows": {
+                            "locale": "en"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "status": {
+        "type": "success"
+    }
+}

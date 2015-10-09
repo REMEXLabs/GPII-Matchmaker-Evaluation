@@ -1,0 +1,38 @@
+{
+    "inferredConfiguration": {
+        "gpii-default": {
+            "applications": {
+                "org.gnome.desktop.interface": {
+                    "active": true,
+                    "settings": {
+                        "http://registry.gpii.net/applications/org.gnome.desktop.interface": {
+                            "cursor-size": 40,
+                            "text-scaling-factor": 166
+                        }
+                    }
+                },
+                "org.chrome.cloud4chrome": {
+                    "active": true,
+                    "settings": {
+                        "http://registry.gpii.net/applications/org.chrome.cloud4chrome": {
+                            "fontSize": "x-large"
+                        }
+                    }
+                },
+                "org.gnome.orca": {
+                    "active": true,
+                    "settings": {
+                        "http://registry.gpii.net/applications/org.gnome.orca": {
+                            "enableSpeech": true,
+                            "voices.default.rate": 5967,
+                            "verbalizePunctuationStyle": 0
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "status": {
+        "type": "success"
+    }
+}

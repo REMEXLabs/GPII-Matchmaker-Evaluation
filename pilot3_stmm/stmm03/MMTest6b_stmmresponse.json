@@ -1,0 +1,23 @@
+{
+    "inferredConfiguration": {
+        "gpii-default": {
+            "applications": {
+                "com.microsoft.windows.magnifier": {
+                    "active": true,
+                    "settings": {
+                        "http://registry.gpii.net/applications/com.microsoft.windows.magnifier": {
+                            "Magnification": 160,
+                            "MagnificationMode": 2,
+                            "FollowFocus": 1,
+                            "FollowCaret": 1,
+                            "FollowMouse": 1
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "status": {
+        "type": "success"
+    }
+}

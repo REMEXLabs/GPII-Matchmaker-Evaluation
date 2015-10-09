@@ -1,0 +1,66 @@
+{
+    "inferredConfiguration": {
+        "gpii-default": {
+            "applications": {
+                "org.nvda-project": {
+                    "active": true,
+                    "settings": {
+                        "http://registry.gpii.net/applications/org.nvda-project": {
+                            "braille.display": "nobraille",
+                            "speech.synth": "espeak",
+                            "speech.outputDevice": "microsoft sound mapper",
+                            "speech.espeak.rate": 0,
+                            "speech.espeak.voice": "en\\en-wi",
+                            "reviewCursor.followFocus": true,
+                            "reviewCursor.followCaret": true,
+                            "reviewCursor.followMouse": true,
+                            "speech.symbolLevel": 0,
+                            "virtualBuffers.autoSayAllOnPageLoad": true,
+                            "speech.espeak.sayCapForCapitals": true,
+                            "keyboard.speakTypedCharacters": true,
+                            "keyboard.speakTypedWords": false,
+                            "speech.espeak.volume": 40,
+                            "speech.espeak.pitch": 70,
+                            "presentation.reportHelpBalloons": false
+                        }
+                    }
+                },
+                "com.freedomscientific.jaws": {
+                    "active": false,
+                    "settings": {
+                        "http://registry.gpii.net/applications/com.freedomscientific.jaws": {
+                            "cloud4allVoiceProfile-GlobalContext.Speed": 16625,
+                            "cloud4allVoiceProfile-GlobalContext.Punctuation": 1
+                        }
+                    }
+                },
+                "org.chrome.cloud4chrome": {
+                    "active": true,
+                    "settings": {
+                        "http://registry.gpii.net/applications/org.chrome.cloud4chrome": {
+                            "fontSize": "medium",
+                            "highContrastEnabled": true
+                        }
+                    }
+                },
+                "com.yourdolphin.supernova-as": {
+                    "active": false,
+                    "settings": {
+                        "http://registry.gpii.net/applications/com.yourdolphin.supernova-as": {
+                            "screenReaderBrailleOutput": false,
+                            "screenReaderTTSEnabled": true,
+                            "speechRate": 157,
+                            "punctuationVerbosity": "none",
+                            "announceCapitals": true,
+                            "keyEcho": false,
+                            "wordEcho": false
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "status": {
+        "type": "success"
+    }
+}

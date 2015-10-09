@@ -1,0 +1,38 @@
+{
+    "inferredConfiguration": {
+        "gpii-default": {
+            "applications": {
+                "org.gnome.orca": {
+                    "active": true,
+                    "settings": {
+                        "http://registry.gpii.net/applications/org.gnome.orca": {
+                            "enableSpeech": true,
+                            "voices.default.rate": 6333,
+                            "verbalizePunctuationStyle": 0
+                        }
+                    }
+                },
+                "org.gnome.desktop.interface": {
+                    "active": true,
+                    "settings": {
+                        "http://registry.gpii.net/applications/org.gnome.desktop.interface": {
+                            "cursor-size": 20
+                        }
+                    }
+                },
+                "org.gnome.desktop.a11y.magnifier": {
+                    "active": false,
+                    "settings": {
+                        "http://registry.gpii.net/applications/org.gnome.desktop.a11y.magnifier": {
+                            "mag-factor": 1,
+                            "invert-lightness": true
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "status": {
+        "type": "success"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "inferredConfiguration": {
+        "gpii-default": {
+            "applications": {
+                "com.yourdolphin.supernova-as": {
+                    "active": false,
+                    "settings": {
+                        "http://registry.gpii.net/applications/com.yourdolphin.supernova-as": {
+                            "screenReaderBrailleOutput": false,
+                            "screenReaderTTSEnabled": true,
+                            "speechRate": 300,
+                            "announceCapitals": true,
+                            "keyEcho": true,
+                            "wordEcho": false
+                        }
+                    }
+                },
+                "com.freedomscientific.jaws": {
+                    "active": true,
+                    "settings": {
+                        "http://registry.gpii.net/applications/com.freedomscientific.jaws": {
+                            "Options.SayAllIndicateCaps": 1,
+                            "Language": "german",
+                            "Punctuation": 2,
+                            "OSM.TrackFocusRect": 1,
+                            "OSM.UseVirtualPCCursor": 1,
+                            "Speed": 25,
+                            "Options.SayAllMode": 1,
+                            "Pitch": 80
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "status": {
+        "type": "success"
+    }
+}

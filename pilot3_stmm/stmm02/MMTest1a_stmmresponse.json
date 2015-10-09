@@ -1,0 +1,45 @@
+{
+    "inferredConfiguration": {
+        "gpii-default": {
+            "applications": {
+                "org.nvda-project": {
+                    "active": true,
+                    "settings": {
+                        "http://registry.gpii.net/applications/org.nvda-project": {
+                            "speech.synth": "espeak",
+                            "speech.outputDevice": "microsoft sound mapper",
+                            "speech.espeak.rate": 4839,
+                            "speech.symbolLevel": 100
+                        }
+                    }
+                },
+                "com.freedomscientific.jaws": {
+                    "active": false,
+                    "settings": {
+                        "http://registry.gpii.net/applications/com.freedomscientific.jaws": {
+                            "cloud4allVoiceProfile-GlobalContext.Speed": 16625,
+                            "cloud4allVoiceProfile-GlobalContext.Punctuation": 1
+                        }
+                    }
+                },
+                "com.yourdolphin.supernova-as": {
+                    "active": false,
+                    "settings": {
+                        "http://registry.gpii.net/applications/com.yourdolphin.supernova-as": {
+                            "screenReaderBrailleOutput": false,
+                            "screenReaderTTSEnabled": true,
+                            "speechRate": 157,
+                            "punctuationVerbosity": "none",
+                            "announceCapitals": true,
+                            "keyEcho": false,
+                            "wordEcho": false
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "status": {
+        "type": "success"
+    }
+}

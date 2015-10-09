@@ -1,0 +1,20 @@
+{
+    "inferredConfiguration": {
+        "gpii-default": {
+            "applications": {
+                "com.android.persistentConfiguration": {
+                    "active": true,
+                    "settings": {
+                        "http://registry.gpii.net/applications/com.android.persistentConfiguration": {
+                            "locale": "en",
+                            "fontScale": 10
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "status": {
+        "type": "success"
+    }
+}
