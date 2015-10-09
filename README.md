@@ -15,6 +15,8 @@ Background:
 * [Pilots evaluation framework, experimental plan and logistics V3](http://www.cloud4all.info/research/public-deliverables/d402-2-3-pilots-evaluation-framework-experimental-plan-and-logistics-v3/) 
 (Cloud4all deliverable D402.2.3, October 2014).
 
+To test the Statistical Matchmaker with the payloads in the `testdata` directory, see the [instructions for running the Statistical Matchmaker](https://github.com/REMEXLabs/GPII-Statistical-Matchmaker#testing-the-statistical-matchmaker). 
+
 ## Funding Acknowledgement
 
 The research leading to these results has received funding from the European
