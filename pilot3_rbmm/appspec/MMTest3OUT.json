@@ -1,0 +1,38 @@
+{
+    "inferredConfiguration": {
+        "gpii-default": {
+            "applications": {
+                "com.microsoft.windows.magnifier": {
+                    "active": true,
+                    "settings": {
+                        "http://registry.gpii.net/applications/com.microsoft.windows.magnifier": {
+                            "Invert": 1,
+                            "Magnification": 200,
+                            "MagnificationMode": 1,
+                            "FollowCaret": 1
+                        }
+                    }
+                },
+                "org.nvda-project": {
+                    "active": true,
+                    "settings": {
+                        "http://registry.gpii.net/applications/org.nvda-project": {
+                            "speech.synth": "espeak",
+                            "speech.outputDevice": "Microsoft Sound Mapper",
+                            "speech\\.espeak\\.sayCapForCapitals": false,
+                            "speech\\.espeak\\.voice": "en\\en",
+                            "keyboard\\.speakTypedCharacters": true,
+                            "keyboard\\.speakTypedWords": false,
+                            "speech\\.espeak\\.pitch": 80,
+                            "speech\\.symbolLevel": 100,
+                            "virtualBuffers\\.autoSayAllOnPageLoad": false,
+                            "presentation\\.reportHelpBalloons": false,
+                            "speech\\.espeak\\.rate": 70.9,
+                            "reviewCursor\\.followCaret": true
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
