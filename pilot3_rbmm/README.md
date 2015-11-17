@@ -7,5 +7,8 @@ The subdirectory `common` contains the RBMM output expressed as common terms.
 
 The subdirectory `appspec` contains the RBMM output expressed as application-specific terms.
 
-In each subdirectory, the file `MMTest1aOUT.json` represents the matchmaker's inference for the payload `MMTest1a.json` etc. 
+In each subdirectory, the file `MMTest1aOUT.json` represents the matchmaker's inference for the payload `MMTest1a.json` 
+([in the directory `testdata`](https://github.com/REMEXLabs/GPII-Matchmaker-Evaluation/tree/master/testdata)) etc. 
+However, the files in the subdirectory `common` represent an intermediate step 
+in the creation of the files in the subdirectory `appspec`.
 

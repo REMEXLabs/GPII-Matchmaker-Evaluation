@@ -26,6 +26,7 @@ The file `MMTest1a_stmmresponse.json` represents the matchmaker's inference for 
 Instructions for running the statistical matchmaker's runtime component and 
 sending the payloads to it are available in the 
 [runtime component's repository](https://github.com/REMEXLabs/GPII-Statistical-Matchmaker). 
-The file `MMTest1a_stmmresponse.json` represents the matchmaker's inference for the payload `MMTest1a.json` etc. 
+The file `MMTest1a_stmmresponse.json` represents the matchmaker's inference for the payload `MMTest1a.json`
+([in the directory `testdata`](https://github.com/REMEXLabs/GPII-Matchmaker-Evaluation/tree/master/testdata)) etc. 
 After the creation of these response files, these files were linted using [JSONLint](http://jsonlint.com/). 
 
