@@ -1,7 +1,7 @@
 # GPII Matchmaker Evaluation
 
 Data and tools for evaluating the [GPII matchmakers](http://wiki.gpii.net/w/Matchmaking) 
-developed in the [Cloud4all project](http://www.cloud4all.info/),
+developed in the [Cloud4all project](https://cordis.europa.eu/project/rcn/101353/factsheet/en),
 more specfically the third evaluation phase ("third pilot"). 
 
 Data originally created by [Cloud4allTUD](https://github.com/claudialoitsch/)
