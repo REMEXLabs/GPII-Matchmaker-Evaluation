@@ -27,5 +27,5 @@ To test the Statistical Matchmaker with the payloads in the `testdata` directory
 
 The research leading to these results has received funding from the European
 Union's Seventh Framework Programme (FP7/2007-2013) under grant agreement No.289016
-([Cloud4all](http://www.cloud4all.info/)).
+(Cloud4all).
 
