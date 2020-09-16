@@ -1,5 +1,9 @@
 # GPII Matchmaker Evaluation
 
+**Important notice, September 2020**: This repository was last updated in 2015, while the [GPII's real-time framework](https://github.com/GPII/universal), for which the Statistical Matchmaker provided a component, has evolved considerably since that time. Since the data collected here are based on code for which compatibility with the GPII framework cannot be guaranteed, this repository will be archived.
+
+---
+
 Data and tools for evaluating the [GPII matchmakers](http://wiki.gpii.net/w/Matchmaking) 
 developed in the [Cloud4all project](https://cordis.europa.eu/project/rcn/101353/factsheet/en),
 more specfically the third evaluation phase ("third pilot"). 
